@@ -1,0 +1,61 @@
+/* styling for a body tag, applies to everything inside the body of the page */
+
+.class1{
+	color:red;
+	font-family: Georgia;
+	font-size: 28pt;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+/* this will affect ALL h1 elements */
+h1 {
+	color: white;
+	font-family: Georgia;
+	background-color: green;
+}
+h2 {
+	color: orange;
+	font-family: Georgia;
+}
+
+/* an id selector */
+#name {
+	color: red;
+}
+#name-container {
+	color: yellow;
+}
+
+/* a class selector */
+.card {
+	border-width: 1px;
+	border-style: solid;
+	padding: 5px;
+}
+
+body{ background-color: pink;}
+
+p{
+color: red;
+font-family:Georgia;
+font-size:16pt;
+}
+
+img {
+  width: 40%;
+  max-width: 40%;
+  height: auto;
+}
+
+.button {
+	background-color: yellow;
+	border-color: red;
+	color: white;
+}
+
+
+
